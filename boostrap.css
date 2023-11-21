@@ -4,6 +4,9 @@
     background-color: aqua;
     
 }
+.container-fluid :hover{
+    color: rgb(255, 0, 204);
+}
 /* social media platform edit*/
 
 .Social ul{
@@ -94,14 +97,11 @@ margin-top: -20%;
         color: #eff2ed;
     }
 
-    .companies {
+    .company {
     padding-right: 50%;
     float: center;
     display: inline-flex;
-
-    
     }
-      
     .content3{
             color: #fff;
             align-content: space-around;
