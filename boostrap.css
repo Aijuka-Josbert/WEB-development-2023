@@ -118,10 +118,9 @@ margin-top: -20%;
 
 company{
     text-align: center;
-
 }
-company .i{
-    width: 30px;
+.company{
+    width: 1150%;
 }
     .object-fit-scale{
         align-items: left;
